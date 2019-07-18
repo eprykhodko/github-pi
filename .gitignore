@@ -1,5 +1,4 @@
 *.pyc
 .idea
 
-
-github-pi/settings/local.py
+github_pi/settings/local.py
