@@ -1,0 +1,5 @@
+*.pyc
+.idea
+
+
+github-pi/settings/local.py
